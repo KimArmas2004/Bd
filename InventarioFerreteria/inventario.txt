@@ -1,0 +1,3 @@
+Tornillo,10,3.0
+clavo,8,2.0
+martillo,2,50.0
